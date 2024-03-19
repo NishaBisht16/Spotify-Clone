@@ -194,19 +194,19 @@ a{
     margin-top:2rem ;
 
 }
-.para{
+.song{
     color: #fffefe;
     font-size:0.75rem ;
     font-weight: 600;
     
 }
-.para2{
+.singer{
     opacity: 0.75;
-    font-size:0.5rem ;
+    font-size:1rem ;
    
     
 }
-.para2:hover{
+.singer:hover{
     opacity: 1;
 }
 
